@@ -1,7 +1,13 @@
-import Login from "./pages/Login";
+import Login from "@/pages/Login";
+import { GlobalStyles } from "./theme/theme.config";
 
 function App() {
-  return <Login />;
+  return (
+    <>
+      <GlobalStyles />
+      <Login />
+    </>
+  );
 }
 
 export default App;

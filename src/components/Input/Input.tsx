@@ -1,5 +1,9 @@
-import React from "react";
+import { Styles } from "./styles";
 
-export const Input: React.FC = () => {
-  return <input />;
+type InputProps = {
+  placeholder: string;
+};
+
+export const Input = ({ placeholder }: InputProps): JSX.Element => {
+  return <Styles.Container placeholder={placeholder} />;
 };
