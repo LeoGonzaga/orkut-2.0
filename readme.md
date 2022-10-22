@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Preguizap</h2>
+<h2>Orkut</h2>
 </div>   
 <p align="center">	
    <a href="https://www.linkedin.com/in/leogonzaga/">
@@ -14,7 +14,7 @@
 
 </p>
 
-> :rocket: Recriação do antigo orkut apenas por nostalgia e teste de algumas ferramentas
+> :rocket: Recriação do antigo orkut com um visual mais moderno apenas por nostalgia e teste de algumas ferramentas
 
 <div align="center">
    <p>Acessar: https://leogonzaga.github.io/preguizap/ </p>  
