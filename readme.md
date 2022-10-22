@@ -20,6 +20,8 @@
    <p>Acessar:https://orkut-ten.vercel.app/</p>  
 </div>   
 
+<img src="https://github.com/LeoGonzaga/orkut-2.0/blob/main/screenshot.png" />
+
 
 # :pushpin: Conteúdo
 
