@@ -17,7 +17,7 @@
 > :rocket: Recriação do antigo orkut com um visual mais moderno apenas por nostalgia e teste de algumas ferramentas
 
 <div align="center">
-   <p>Acessar: https://leogonzaga.github.io/preguizap/ </p>  
+   <p>Acessar:https://orkut-ten.vercel.app/</p>  
 </div>   
 
 
